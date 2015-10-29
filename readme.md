@@ -27,12 +27,12 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git add -A` - __Fill Me Out__
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` - adds staged changes to commited changes
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - Creates a new branch
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` - List, create, or delete branches.
 
 `$ git checkout <branch name>` - __Fill Me Out__
 
